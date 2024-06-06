@@ -106,4 +106,40 @@ Como Entrenador deseo revisar las horas agendadas para organizar mi horario y la
 
 # Sprint 2
 
+> Modificación del Sprint 2 (24/05/2024)
+
+## Visión del Sprint 2 
+
+Inicialmente se mejorará el diseño de la interfaz de la plataforma web, modificándose en conjunto con la base de datos para permitir el registro de rutinas con circuitos. Se terminará de abarcar la problemática principal, dejando funcional la interfaz de entrenadores, permitiéndoles añadir rutinas y evaluaciones que son registradas en la base de datos del gimnasio. Se pondrá en marcha la interfaz de administración, permitiendo el login de los administradores y la gestión de usuarios por parte de estos.
+
+### US1
+
+Como entrenador quiero registrar y ver la rutina y/o evaluación de un cliente considerando ejercicios en base a tiempos y circuitos para tener un registro más completo de lo realizado en la sesión.
+
+- Adaptar la base de datos e interfaz para permitir el registro de rutinas que consideren tiempo y soporte circuitos
+- Realizar la conexión entre la interfaz y la base de datos.
+
+### US2
+
+Como administrador quiero poder gestionar los datos de los clientes  (registro, modificación y actualización), para que los entrenadores puedan acceder a esta información y personalizar los entrenamientos.
+
+- Implementar funcionalidades para el registro, modificación y actualización de datos de los clientes.
+- Crear una interfaz conectada a la base de datos para la gestión de clientes.
+- Implementar un sistema de Login para administradores.
+- Vincular y visualizar usuarios con sus rutinas.
+  
+### US3
+
+Como administrador quiero manejar datos de las máquinas y sus estados para que el Entrenador pueda crear rutinas con el uso de una máquina y junto a clientes sepan la disponibilidad de una máquina.
+
+- Considerar uso de máquinas en ejercicios (visualizavles en rutinas).
+### US4
+
+Como usuario de la plataforma (administrador, entrenador, cliente) quiero que la usabilidad de la plataforma sea mejorada para facilitar la interacción y entrada de datos.
+
+- Realizar diseño figma para la plinificación previa de la interfaz general.
+- Mejorar el diseño general para hacerlo más ameno al usuario.
+
 # Sprint 3
+
+
